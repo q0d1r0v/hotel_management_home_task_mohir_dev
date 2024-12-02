@@ -295,7 +295,6 @@
  *       500:
  *         description: Internal server error
  */
-
 const { query } = require("../database/db");
 const { v4: uuidv4 } = require("uuid");
 
